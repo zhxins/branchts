@@ -5,5 +5,5 @@ package cn.com.bt.controller;
  */
 public class IndexController {
 
-	// branch1
+	// branch1 add new content
 }
